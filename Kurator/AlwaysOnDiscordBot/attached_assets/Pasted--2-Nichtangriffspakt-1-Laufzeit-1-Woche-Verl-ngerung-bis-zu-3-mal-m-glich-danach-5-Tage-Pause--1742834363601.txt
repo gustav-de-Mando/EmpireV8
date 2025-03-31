@@ -1,0 +1,80 @@
+§2 Nichtangriffspakt
+(1) Laufzeit: 1 Woche, Verlängerung bis zu 3-mal möglich (danach 5 Tage Pause).
+(2) Während der Laufzeit dürfen sich beide Nationen nicht direkt angreifen.
+(3) Abschluss durch Botschafter oder Herrscher möglich.
+(4) Kündigungsfrist: 2 Tage oder automatisches Auslaufen.
+
+💡 Beispiel:
+Das Britische Empire und das Russische Zarenreich haben Spannungen in Osteuropa. Um Zeit für Verhandlungen zu gewinnen, schließen sie einen Nichtangriffspakt für 1 Woche. 
+📌 §3 Schutzbündnis
+(1) Eine Seite verpflichtet sich, der anderen mit mindestens 20% ihrer Armee zu helfen.
+(2) Muss von gespielten Charakteren geschlossen werden.
+(3) Laufzeit: 1 Woche, Verlängerung bis zu 3-mal möglich.
+(4) Vertragsbruch führt zu Sanktionen nach §8.
+
+💡 Beispiel:
+Frankreich befürchtet einen Angriff durch das Deutsche Kaiserreich. Das Osmanische Reich bietet ein Schutzbündnis an und verpflichtet sich, im Falle eines Angriffs 20% seiner Armee zu entsenden.
+📌 §4 Allianzvertrag
+(1) Beide Seiten verpflichten sich, sich gegenseitig mit mindestens 50% ihrer Armee zu unterstützen.
+(2) Muss von gespielten Charakteren geschlossen werden.
+(3) Laufzeit: 1 Woche, Verlängerung bis zu 3-mal möglich.
+(4) Vertragsbruch führt zu Sanktionen nach §8.
+(5) Beider Nationen können keine Eigenständige Kriege mehr führen
+
+💡 Beispiel:
+Das Britische Empire und Frankreich schließen eine Allianz, um ihre Interessen in Afrika zu schützen. Falls einer von ihnen angegriffen wird, muss der andere mit mindestens 50% seiner Armee helfen. 
+📌 §5 Hochzeitspakt
+(1) Funktioniert wie eine Allianz, gilt jedoch solange die Ehe besteht.
+(2) Kann zwischen Spielercharakteren oder NPCs geschlossen werden.
+(3) Eine Scheidung erfolgt per Scheidungsvertrag + RP-Play.
+
+💡 Beispiel:
+Ein Prinz aus dem Deutschen Kaiserreich heiratet eine Prinzessin aus Russland. Damit entsteht ein Bündnis, das so lange besteht, wie die Ehe hält. 
+📌 §6 Großallianzvertrag
+(1) Großallianzen bestehen aus 3–4 Spielern.
+(2) Sie erhalten eine eigene Allianzrolle & Diplomatiekanal.
+(3) Mitglieder sind gegenseitig verbündet.
+(4) Unterhalt: 5% der Gesamteinnahmen fallen als Verwaltungskosten an.
+(5) Großallianzen können sich gegenseitig angreifen.
+(6) Erhalten zugriff auf Förderationstruppen die von allen Mitgliedern der Allianz besessen werden
+(7) Tritt ein Mitglied aus muss ein Austrittsvertrag ausgehandelt werden
+(8) Wird weitervertraglich wie §4 Allianz behandelt.
+
+💡 Beispiel:
+Das Deutsche Kaiserreich, das Russische Zarenreich und das Osmanische Reich bilden eine Großallianz namens "Die Mittelmächte", um ihre gemeinsamen Interessen zu verteidigen. 
+📌 §7 Begrenzung der Bündnisse
+(1) Jedes Land darf maximal folgende Bündnisse halten:
+   
+3 Nichtangriffspakte
+2 Vasallenverträge
+3 Allianzen oder Schutzbündnisse
+Großallianzen zählen als 2 Allianzen
+Eine Hochzeit zählt als Allianz
+(2) Bündnisbegrenzungen gelten nicht für Handelsverträge.
+
+💡 Beispiel:
+Das Britische Empire hat bereits 3 Allianzen. Es kann kein weiteres Schutzbündnis eingehen, außer es beendet eine bestehende Allianz.
+📌 §8 Vertragsbruch & Sanktionen
+(1) Jeder Vertrag benötigt eine Vertragsbruchklausel. Falls keine existiert, gilt die Normalklausel:
+   
+Der Schuldige muss das Doppelte des Wertes oder etwas Gleichwertiges abgeben.
+§9 (Vertragsbruchkriegsgrund) in Kraft.
+(2) Vertragsbrüche werden von einem Admin geprüft.
+(3) Sanktionen können wirtschaftlicher, militärischer oder territorialer Natur sein.
+
+💡 Beispiel:
+Frankreich bricht einen Handelsvertrag mit Russland und liefert kein versprochenes Getreide. Russland fordert das Doppelte an Eisen als Entschädigung. 
+📌 §9 Vertragsbruchkriegsgrund
+(1) Ein nachgewiesener Vertragsbruch gibt der betrogenen Nation das Recht auf Kriegserklärung.
+(2) Ablauf:
+   
+Ein Admin prüft den Vertragsbruch.
+Der Schuldige hat 48 Stunden zur Wiedergutmachung.
+Falls kein Ausgleich erfolgt, kann innerhalb von 7 Tagen ein Krieg erklärt werden.
+(3) Kriegsmodifikatoren:
+   
+Der Verteidiger kann nur 75% seiner Truppen mobilisieren.
+Der Angreifer erhält +10% Beute.
+
+💡 Beispiel:
+Frankreich liefert nicht das vereinbarte Holz an das Britische Empire. Nach 48 Stunden ohne Entschädigung erklärt Großbritannien einen Vertragsbruchkrieg.
